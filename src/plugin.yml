@@ -1,0 +1,11 @@
+name: GenericFreeze
+version: 1.0
+main: plugin.dev.wristz.Freeze
+authors: [Wristz]
+website: http://www.mc-market.org/members/48315/
+description: Generic Freezing Plugin developed by Wristz.
+
+commands:
+  Freeze:
+    description: Command used to freeze other players.
+    aliases: [ss, halt]
